@@ -1,0 +1,11 @@
+Django==4.0
+django-environ==0.4.5
+gspread==5.4.0
+jdatetime==4.1.0
+psycopg2==2.9.3
+gspread-formatting==1.0.6
+
+selenium==4.3.0
+webdriver-manager==3.7.1
+validators==0.20.0
+openpyxl==3.0.10
