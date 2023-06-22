@@ -127,8 +127,8 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CREDENTIALS_FILEPATH = '/home/mehdi/.config/gspread/credentials.json'
-AUTHORIZATION_FILEPATH = '/home/mehdi/.config/gspread/authorized_user.json'
+CREDENTIALS_FILEPATH = '/home/francis/.config/gspread/credentials.json'
+AUTHORIZATION_FILEPATH = '/home/francis/.config/gspread/authorized_user.json'
 GECKO_DRIVER_LATEST_RELEASE_URL = \
     "https://api.github.com/repos/mozilla/geckodriver/releases/latest"
 ZENMATE_PATH = BASE_DIR / 'data/zenmate_free_vpn_best-8.2.3.xpi'
